@@ -1,1 +1,1 @@
-Code like a journalist contains installation advise, exercises and their solutions for the #nr17 workshop: [Code like a journalist](https://nr17.sched.com/event/AHAu/code-like-a-journalist-einsteigerworkshop-programmieren-und-datenanalyse). It is still under construction.
+Code like a journalist contains installation advise, exercises and their solutions for the #nr17 workshop: [Code like a journalist](https://nr17.sched.com/event/AHAu/code-like-a-journalist-einsteigerworkshop-programmieren-und-datenanalyse). It is still under construction. #nr18
